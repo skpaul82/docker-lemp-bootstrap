@@ -1,1 +1,1 @@
-This is a bootstrap repojitory to configure docker for LEMP stack.
+This is a bootstrap repository to configure docker for the LEMP stack.
